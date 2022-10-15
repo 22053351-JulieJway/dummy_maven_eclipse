@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+dummy_maven.eclipse,com.sddevops.dummy_maven.eclipse,NewAppointment_Junit.new Comparator() {...},21,0,4,0,3,0,4,0,2,0
+dummy_maven.eclipse,com.sddevops.dummy_maven.eclipse,NewAppointment_Junit.new Comparator() {...},9,0,0,0,2,0,2,0,2,0
+dummy_maven.eclipse,com.sddevops.dummy_maven.eclipse,NewAppointment_Junit,89,0,0,0,33,0,16,0,16,0
+dummy_maven.eclipse,com.sddevops.dummy_maven.eclipse,NewAppointmentCollection_Junit,82,0,10,0,20,0,12,0,7,0
+dummy_maven.eclipse,com.sddevops.dummy_maven.eclipse,NewAppointment_Junit.new Comparator() {...},9,0,0,0,2,0,2,0,2,0
+dummy_maven.eclipse,com.sddevops.dummy_maven.eclipse,App,7,0,0,0,3,0,2,0,2,0
